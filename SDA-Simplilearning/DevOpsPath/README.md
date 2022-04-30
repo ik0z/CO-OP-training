@@ -1,25 +1,25 @@
 
-# DevOps Path training : 
+# DevOps Engineer Path training : 
 
-#### Step 1 : DevOps Certification training
-
-
-#### Step 2 : Git and GitHub Training
+#### Step 1 : DevOps Certification training       [view certificate](https://success.simplilearn.com/348f5269-137f-40ce-a0ac-3e45b9f5ba75#gs.yiu5cw).
 
 
-#### Step 3 : CI/CD Pipeline with Jenkins
+#### Step 2 : Git and GitHub Training             [view certificate](https://success.simplilearn.com/be00393a-d7f0-40d6-b323-6ef315091f59#gs.yiu64x).
 
 
-#### Step 4 : Docker Certified Associate
+#### Step 3 : CI/CD Pipeline with Jenkins         [view certificate](https://success.simplilearn.com/2e86fc18-e842-4362-9a33-ddcd0ad114b0#gs.yiu7h5).
 
 
-#### Step 5 : CKA - Certified Kubernetes Administrator
+#### Step 4 : Docker Certified Associate          [view certificate](https://success.simplilearn.com/4685cad8-fcdb-4419-a9ec-55f33c58e539#gs.yiu7op).
 
 
-#### Step 6 : DevOps on AWS
+#### Step 5 : CKA - Certified Kubernetes Administrator  [view certificate](https://success.simplilearn.com/0db8a271-6e42-4698-aa97-63106ecd2034#gs.yiu8lu).
 
 
-#### Step 7 : AWS Developer Associate
+#### Step 6 : DevOps on AWS [view certificate](https://success.simplilearn.com/4663acff-8917-49f3-b5ec-7095d067e2d2#gs.yiu8tg).
 
 
-#### Step 8 : DevOps Capstone Project
+#### Step 7 : AWS Developer Associate [view certificate](https://success.simplilearn.com/d0ec3779-d3e1-45e6-9289-edbbea86a9a3#gs.yiu9mq).
+
+
+#### Step 8 : DevOps Capstone Project [view certificate](https://success.simplilearn.com/a237f6d2-e22c-4d62-a85a-0142992ea4d2#gs.yiuavh).
