@@ -17,4 +17,4 @@
 
 
 #### Step 6 : PG CS - Cyber Security Capstone Project       [view certificate](https://success.simplilearn.com/c3907e58-1701-45d5-84a7-e99b020f6ce3#gs.yiulgy).
-- [x]  Project : CEH - Comprehensive Business Continuity [view report]()
+- [x]  Project : CEH - Comprehensive Business Continuity [view report](https://raw.githubusercontent.com/ik0z/Docs/master/CyberSecProject.pdf)
