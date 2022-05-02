@@ -8,4 +8,4 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/ik0z/CO-OP-training/main/MCIT.jpg)
+![alt text](https://raw.githubusercontent.com/ik0z/CO-OP-training/master/MCIT.jpg)
