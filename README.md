@@ -1,8 +1,8 @@
 ## All about : CO-OP training with MCIT
 
 
-- [x]  The projects I worked on during the CO-OP training period 
-- [x]  What should I expect in training with MCIT?
+###### :radio_button:  The projects I worked on during the CO-OP training period 
+###### :radio_button:  What should I expect in training with MCIT?
 
 ##### I spent 7 months ( 272 hours ) training with Ministry of Communications and Information Technology [(MCIT) ](https://www.mcit.gov.sa/) & Saudi Digital Academy [(SDA)](https://sda.edu.sa/).
 ###### With [Virtual Internships](https://www.virtualinternships.com/) & [Simplilearn](https://www.simplilearn.com/). 
