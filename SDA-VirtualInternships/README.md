@@ -2,7 +2,10 @@
 ## Virtual Internships hired me in Solve education Intership program to complete training to give me real experience in the real world . 
 
 #### what kind of project I worked with? Most projects about SQL query
-
+#### What should I expected with this path:
+* all projects are divided between members of the team .
+* should give { last update, reports and discuss about projects with your company supervisor every week} .
+* should send checkpoints every week to Virtual Internships and coaching call  with your supervisor in Virtual Internships in mid duration and final training .
 ###### Projects I have been assigned to with the team 
 - [x]  Project 1: Create a database dictionary 
 - [x]  Project 2: Create a visualized database scheme 
