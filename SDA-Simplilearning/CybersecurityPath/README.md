@@ -1,5 +1,5 @@
 
-# Cyber Security Expert Path training [view certificate](https://success.simplilearn.com/18d6d7fe-7d88-43e2-b78f-8b41d5e949a0#gs.yiumgo). : 
+# Cyber Security Expert Path training [view certificate](https://success.simplilearn.com/18d6d7fe-7d88-43e2-b78f-8b41d5e949a0#gs.yiumgo) : 
 
 #### Step 1 : Introduction to Cyber Security   [view certificate](https://success.simplilearn.com/2ad037c4-1923-4d2d-a336-daa045d6c35e#gs.yiuicx).    
 
